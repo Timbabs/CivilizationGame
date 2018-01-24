@@ -1,2 +1,1 @@
-# Sid-Meier-Civilization-Game
-
+JavaFX GUI for the Civization game
